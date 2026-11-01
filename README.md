@@ -1,6 +1,6 @@
 # LightRebirth
 
-A small Windows VST3 effects host built with C++ and JUCE. Pick your audio device, stack some effects, and run your mic or instrument through them in real time.
+A small Windows VST3 effects host built with C++ and JUCE. Pick your audio device, stack some effects, and run your mic or instrument through them in real time. Yes this is vibe coded, yes it works for me.
 
 ## Using it
 
